@@ -1,0 +1,78 @@
+{
+    "articles":[
+{
+    "id":"1",
+    "title":"Cafe Coworking Has Become the Norm.",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam.",
+    "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi reiciendis odio perferendis libero saepe voluptatum fugiat dolore voluptates aut, ut quas doloremque quo ad quis ipsum molestias neque pariatur commodi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, quidem, earum! Quo fugiat voluptates similique quidem dolorem ex non quibusdam odio suscipit error, maiores, itaque blanditiis vel, sed, cum velit?",
+    "articleImg":"/static/img/photo-7.jpg",
+    "avatar":"/static/img/avatar-3.jpg",
+    "author":"Ab Hadley",
+    "upvotes":"10",
+    "createdAt": "2020-12-28",
+    "slug":"cafe-coworking-has-become-the-norm"
+
+},
+{
+    "id":"2",
+    "title":"Weekly Roundtable Meetings Saved Us.",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam.",
+    "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi reiciendis odio perferendis libero saepe voluptatum fugiat dolore voluptates aut, ut quas doloremque quo ad quis ipsum molestias neque pariatur commodi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, quidem, earum! Quo fugiat voluptates similique quidem dolorem ex non quibusdam odio suscipit error, maiores, itaque blanditiis vel, sed, cum velit?",
+    "articleImg":"/static/img/photo-14.jpg",
+    "avatar":"/static/img/avatar-5.jpg",
+    "author":"Adolfo Hess",
+    "upvotes":"8",
+    "createdAt": "2020-12-25",
+    "slug":"weekly-roundtable-meetings-saved-us"
+},
+{
+    "id":"3",
+    "title":"Nature Can Save Your Creative Side.",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam.",
+    "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi reiciendis odio perferendis libero saepe voluptatum fugiat dolore voluptates aut, ut quas doloremque quo ad quis ipsum molestias neque pariatur commodi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, quidem, earum! Quo fugiat voluptates similique quidem dolorem ex non quibusdam odio suscipit error, maiores, itaque blanditiis vel, sed, cum velit?",
+    "articleImg":"/static/img/photo-15.jpg",
+    "avatar":"/static/img/avatar-3.jpg",
+    "author":"Ab Hadley",
+    "upvotes":"4",
+    "createdAt": "2020-12-13",
+    "slug":"nature-can-save-your-creative-side"
+},
+{
+    "id":"4",
+    "title":"Cafe Coworking Has Become the Norm.",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam.",
+    "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi reiciendis odio perferendis libero saepe voluptatum fugiat dolore voluptates aut, ut quas doloremque quo ad quis ipsum molestias neque pariatur commodi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, quidem, earum! Quo fugiat voluptates similique quidem dolorem ex non quibusdam odio suscipit error, maiores, itaque blanditiis vel, sed, cum velit?",
+    "articleImg":"/static/img/photo-7.jpg",
+    "avatar":"/static/img/avatar-5.jpg",
+    "author":"Adolfo Hess",
+    "upvotes":"20",
+    "createdAt": "2020-12-01",
+    "slug":"cafe-coworking-has-become-the-norm"
+},
+{
+    "id":"5",
+    "title":"Nature Can Save Your Creative Side.",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam.",
+    "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi reiciendis odio perferendis libero saepe voluptatum fugiat dolore voluptates aut, ut quas doloremque quo ad quis ipsum molestias neque pariatur commodi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, quidem, earum! Quo fugiat voluptates similique quidem dolorem ex non quibusdam odio suscipit error, maiores, itaque blanditiis vel, sed, cum velit?",
+    "articleImg":"/static/img/photo-15.jpg",
+    "avatar":"/static/img/avatar-3.jpg",
+    "author":"Adolfo Hess",
+    "upvotes":"17",
+    "createdAt": "2020-11-22",
+    "slug":"cafe-coworking-has-become-the-norm"
+},
+{
+    "id":"6",
+    "title":"Weekly Roundtable Meetings Saved Us.",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam.",
+    "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi reiciendis odio perferendis libero saepe voluptatum fugiat dolore voluptates aut, ut quas doloremque quo ad quis ipsum molestias neque pariatur commodi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, quidem, earum! Quo fugiat voluptates similique quidem dolorem ex non quibusdam odio suscipit error, maiores, itaque blanditiis vel, sed, cum velit?",
+    "articleImg":"/static/img/photo-14.jpg",
+    "avatar":"/static/img/avatar-3.jpg",
+    "author":"Adolfo Hess",
+    "upvotes":"16",
+    "createdAt": "2020-11-19",
+    "slug":"cafe-coworking-has-become-the-norm"
+}
+
+]
+}
